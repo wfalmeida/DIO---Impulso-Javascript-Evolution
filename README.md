@@ -1,6 +1,6 @@
 # Impulso-Javascript-Evolution
 ## Repositório dedicado ao bootcamp Impulso Javascript Evolution 
 
-### Desafios
+### Desafio 1 - Criação de um repositório
 
-1. Criação do repositório para publicação das próximas tarefas
+
