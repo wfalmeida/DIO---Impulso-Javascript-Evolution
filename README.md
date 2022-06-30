@@ -27,4 +27,4 @@
 * Orientação a objetos
 * Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
 * Desafios intermediários Js - Impulso JavaScript Evolution
-* Introdução Prática ao TypeScript
+* [Desafio de Projeto - Introdução Prática ao TypeScript]()
